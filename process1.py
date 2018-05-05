@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# copyright: gpl-2
+# author: Y.C Cheng
+
 import xml.sax
 import sys
 from openpyxl import Workbook
