@@ -1,0 +1,39 @@
+
+<span id="ctl00_ContentPlaceHolder1_Place"><div id="DisplayPlaceDiv" style="display:none">雲林縣西螺鎮新社段</div>
+
+<div id="GoogleLinkDiv">
+<input type="hidden" id="GpsAdd" value="雲林縣西螺鎮新社段" />
+<input type="hidden" id="GpsSID" value="PC0309" />
+<input type="hidden" id="GpsNID" value="11520000" />
+<input type="hidden" id="GpsLand" value="PC0309,11520000" />
+
+<a  id="GoogleLink" target="_blank" title="產地在哪兒:GoogleMap"  >雲林縣西螺鎮新社段 <img src="/images/mapicon.jpg" style="height:20px;width:20px;border-width:0px;vertical-align:bottom;"></a></div></span>
+
+
+PC0309:  PC0309: 地政事務所
+11520000: 地號
+
+> center: { lat: 23.7942462, lng: 121.5587476 },
+
+location:
+120.4482 / 120.4736
+
+23.7757
+23.7799
+
+https://taft.coa.gov.tw/rsm/Geo_OP.aspx?SID=PC0309&NID=11520000
+
+{"success":true,"data":[{"attributes":{"AA49":"11520000","NOID":"1152"},"geometry":{"rings":[[[120.4610551,23.78377083],[120.46126058,23.78377937],[120.46132799,23.78241448],[120.46111864,23.7824044],[120.46104292,23.78375252],[120.4610551,23.78377083]]]}}]}
+
+code_cp_map.aspx?Pos=PC0309,11520000
+
+http://twland.ronny.tw/
+
+https://data.gov.tw/dataset/7556
+
+https://github.com/ronnywang/sandbox/tree/master/20130805
+geojson file to poly
+
+地號 to 多邊形之經緯度
+http://twland.ronny.tw/index/search?lands[]=PC0309,11520000
+
