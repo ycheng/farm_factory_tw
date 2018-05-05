@@ -11,3 +11,6 @@ Potential TODO:
 	https://en.wikipedia.org/wiki/Web_Map_Service
 
 	https://github.com/kiang/map.coa.gov.tw.git
+
+hackpad link:
+	https://hackpad.tw/aydKwNKL7Ab
