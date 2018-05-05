@@ -5,3 +5,7 @@ ResumeData_Plus.xml:
 
 Get location from:
 	http://twland.ronny.tw/index/search?lands[]=QB0317,01120000&lands[]=QB0317,01120100
+
+Potential TODO:
+	https://github.com/mapbox/geojson-vt
+	https://en.wikipedia.org/wiki/Web_Map_Service
